@@ -1,4 +1,4 @@
-# 0x00. PYTHON - HELLO, WORLD
+# PYTHON - HELLO, WORLD
 ## Learning Objectives
 
 1. Why Python programming is awesome
